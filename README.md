@@ -20,7 +20,7 @@ O banco modela um sistema de compras com cartão de crédito, composto por três
 
 ### 🔹 Diagrama Relacional
 
-![Diagrama do Banco de Dados](diagrama.png)
+![Diagrama do Banco de Dados](SQL/diagrama.png)
 
 ---
 
